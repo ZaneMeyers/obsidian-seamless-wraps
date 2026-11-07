@@ -1,0 +1,17 @@
+.seamless-wraps-rule-setting .setting-item-control {
+	flex-wrap: wrap;
+}
+
+.seamless-wraps-rule-setting .seamless-wraps-pattern-input {
+	font-family: var(--font-monospace);
+	min-width: 0;
+	width: 10em;
+}
+
+.seamless-wraps-rule-setting input.seamless-wraps-invalid {
+	border-color: var(--text-error);
+}
+
+.seamless-wraps-rule-error {
+	color: var(--text-error);
+}

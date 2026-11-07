@@ -1,0 +1,10 @@
+{
+	"id": "seamless-wraps",
+	"name": "Seamless Wraps",
+	"version": "0.1.0",
+	"minAppVersion": "1.2.3",
+	"description": "Join hard-wrapped lines in Reading view without a space when a line matches your regex rules, such as lines ending in an em dash or ellipsis.",
+	"author": "Zane Meyers",
+	"authorUrl": "https://github.com/ZaneMeyers",
+	"isDesktopOnly": false
+}
